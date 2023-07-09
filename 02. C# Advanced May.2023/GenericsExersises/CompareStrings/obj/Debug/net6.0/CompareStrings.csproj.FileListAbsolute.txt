@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\bin\Debug\net6.0\CompareStrings.exe
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\bin\Debug\net6.0\CompareStrings.deps.json
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\bin\Debug\net6.0\CompareStrings.runtimeconfig.json
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\bin\Debug\net6.0\CompareStrings.dll
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\bin\Debug\net6.0\CompareStrings.pdb
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.dll
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\refint\CompareStrings.dll
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.pdb
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\CompareStrings.genruntimeconfig.cache
+C:\Users\User\source\repos\GenericsExersises\CompareStrings\obj\Debug\net6.0\ref\CompareStrings.dll

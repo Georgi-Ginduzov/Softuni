@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\bin\Debug\net6.0\EquationExpressionsPrint.exe
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\bin\Debug\net6.0\EquationExpressionsPrint.deps.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\bin\Debug\net6.0\EquationExpressionsPrint.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\bin\Debug\net6.0\EquationExpressionsPrint.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\bin\Debug\net6.0\EquationExpressionsPrint.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\refint\EquationExpressionsPrint.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\EquationExpressionsPrint.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\EquationExpressionsPrint\obj\Debug\net6.0\ref\EquationExpressionsPrint.dll

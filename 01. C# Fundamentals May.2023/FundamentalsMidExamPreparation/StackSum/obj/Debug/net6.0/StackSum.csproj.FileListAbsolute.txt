@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\bin\Debug\net6.0\StackSum.exe
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\bin\Debug\net6.0\StackSum.deps.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\bin\Debug\net6.0\StackSum.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\bin\Debug\net6.0\StackSum.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\bin\Debug\net6.0\StackSum.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\refint\StackSum.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\StackSum.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\StackSum\obj\Debug\net6.0\ref\StackSum.dll

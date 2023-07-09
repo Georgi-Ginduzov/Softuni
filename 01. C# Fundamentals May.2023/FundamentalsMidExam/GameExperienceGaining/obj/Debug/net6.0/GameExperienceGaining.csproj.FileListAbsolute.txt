@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\bin\Debug\net6.0\GameExperienceGaining.exe
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\bin\Debug\net6.0\GameExperienceGaining.deps.json
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\bin\Debug\net6.0\GameExperienceGaining.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\bin\Debug\net6.0\GameExperienceGaining.dll
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\bin\Debug\net6.0\GameExperienceGaining.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.dll
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\refint\GameExperienceGaining.dll
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\GameExperienceGaining.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExam\GameExperienceGaining\obj\Debug\net6.0\ref\GameExperienceGaining.dll

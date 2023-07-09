@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\bin\Debug\net6.0\CofeeList.exe
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\bin\Debug\net6.0\CofeeList.deps.json
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\bin\Debug\net6.0\CofeeList.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\bin\Debug\net6.0\CofeeList.dll
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\bin\Debug\net6.0\CofeeList.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.dll
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\refint\CofeeList.dll
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\CofeeList.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExam\CofeeList\obj\Debug\net6.0\ref\CofeeList.dll

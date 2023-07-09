@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\bin\Debug\net6.0\Storage'sListOfPhones.exe
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\bin\Debug\net6.0\Storage'sListOfPhones.deps.json
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\bin\Debug\net6.0\Storage'sListOfPhones.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\bin\Debug\net6.0\Storage'sListOfPhones.dll
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\bin\Debug\net6.0\Storage'sListOfPhones.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.dll
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\refint\Storage'sListOfPhones.dll
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.pdb
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\Storage'sListOfPhones.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExam\Storage'sListOfPhones\obj\Debug\net6.0\ref\Storage'sListOfPhones.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\bin\Debug\net6.0\FitPassengersInTrain.exe
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\bin\Debug\net6.0\FitPassengersInTrain.dll
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.dll
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\refint\FitPassengersInTrain.dll
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.pdb
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\bin\Debug\net6.0\FitPassengersInTrain.deps.json
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\bin\Debug\net6.0\FitPassengersInTrain.runtimeconfig.json
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\bin\Debug\net6.0\FitPassengersInTrain.pdb
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\FitPassengersInTrain.genruntimeconfig.cache
+C:\Users\User\source\repos\Lists\FitPassengersInTrain\obj\Debug\net6.0\ref\FitPassengersInTrain.dll

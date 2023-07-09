@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\bin\Debug\net6.0\HarryPotersTempleSearch.exe
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\bin\Debug\net6.0\HarryPotersTempleSearch.deps.json
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\bin\Debug\net6.0\HarryPotersTempleSearch.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\bin\Debug\net6.0\HarryPotersTempleSearch.dll
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\bin\Debug\net6.0\HarryPotersTempleSearch.pdb
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.dll
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\refint\HarryPotersTempleSearch.dll
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.pdb
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\HarryPotersTempleSearch.genruntimeconfig.cache
+C:\Users\User\source\repos\AdvancedExamJune2023Softuni\HarryPotersTempleSearch\obj\Debug\net6.0\ref\HarryPotersTempleSearch.dll

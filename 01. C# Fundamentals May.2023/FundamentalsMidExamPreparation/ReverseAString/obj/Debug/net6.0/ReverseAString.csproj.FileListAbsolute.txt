@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\bin\Debug\net6.0\ReverseAString.exe
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\bin\Debug\net6.0\ReverseAString.deps.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\bin\Debug\net6.0\ReverseAString.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\bin\Debug\net6.0\ReverseAString.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\bin\Debug\net6.0\ReverseAString.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ReverseAString.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsMidExamPreparation\ReverseAString\obj\Debug\net6.0\ref\ReverseAString.dll
