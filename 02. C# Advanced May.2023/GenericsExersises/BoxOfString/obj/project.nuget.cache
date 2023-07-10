@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RFTJ7IYoY/4DVKW1ZAtUlPYw1uYBBX532njz7r6D+qGF90xsh1rlQIUrleiY1q9USa2+RibrL3iL4A8Mp6ceTQ==",
+  "dgSpecHash": "LiQACJYJj4CScj2A34vMELfNDxN3EbNZOk0WNdShuWzfDtVUl505ph6W03JgYn3jqnukouwc2rbl+G5aeM0byA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfString\\BoxOfString.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfString\\BoxOfString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TuplePairPrint
+namespace GenericLinkedList
 {
-    public class Tuple
+    internal class CustomLinkedList
     {
-        public Tuple()
-        {
-            
-        }
     }
 }

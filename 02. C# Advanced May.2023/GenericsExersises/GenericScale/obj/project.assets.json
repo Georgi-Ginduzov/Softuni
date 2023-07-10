@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericScale\\GenericScale.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericScale\\GenericScale.csproj",
       "projectName": "GenericScale",
-      "projectPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericScale\\GenericScale.csproj",
+      "projectPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericScale\\GenericScale.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericScale\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericScale\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

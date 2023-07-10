@@ -1,0 +1,5 @@
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\GenericsExersises\RecursiveStringCompare\obj\Debug\net6.0\RecursiveStringCompare.csproj.AssemblyReference.cache
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\GenericsExersises\RecursiveStringCompare\obj\Debug\net6.0\RecursiveStringCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\GenericsExersises\RecursiveStringCompare\obj\Debug\net6.0\RecursiveStringCompare.AssemblyInfoInputs.cache
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\GenericsExersises\RecursiveStringCompare\obj\Debug\net6.0\RecursiveStringCompare.AssemblyInfo.cs
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\GenericsExersises\RecursiveStringCompare\obj\Debug\net6.0\RecursiveStringCompare.csproj.CoreCompileInputs.cache

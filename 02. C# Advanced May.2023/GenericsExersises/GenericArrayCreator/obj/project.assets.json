@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericArrayCreator\\GenericArrayCreator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericArrayCreator\\GenericArrayCreator.csproj",
       "projectName": "GenericArrayCreator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericArrayCreator\\GenericArrayCreator.csproj",
+      "projectPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericArrayCreator\\GenericArrayCreator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericArrayCreator\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericArrayCreator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

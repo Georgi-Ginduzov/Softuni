@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\CompareStrings.csproj": {}
+    "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\CompareStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\CompareStrings.csproj": {
+    "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\CompareStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
         "projectName": "CompareStrings",
-        "projectPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
+        "projectPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

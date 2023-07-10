@@ -13,11 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxOfString", "BoxOfString\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethod", "GenericSwapMethod\GenericSwapMethod.csproj", "{2380A399-1AA7-48FD-B883-80E6FD9FF6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareStrings", "CompareStrings\CompareStrings.csproj", "{243FA1E2-4F05-48B5-90D4-9CD01DD45C77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareStrings", "CompareStrings\CompareStrings.csproj", "{243FA1E2-4F05-48B5-90D4-9CD01DD45C77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveStringCompare", "RecursiveStringCompare\RecursiveStringCompare.csproj", "{FBEBE526-E6E2-40D6-B912-B7A7D66EC378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveStringCompare", "RecursiveStringCompare\RecursiveStringCompare.csproj", "{FBEBE526-E6E2-40D6-B912-B7A7D66EC378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplePairPrint", "TuplePairPrint\TuplePairPrint.csproj", "{C749F704-FADD-46C5-90C1-1FAFD54BE7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "TuplePairPrint\Tuple.csproj", "{C749F704-FADD-46C5-90C1-1FAFD54BE7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomThreeuple", "CustomThreeuple\CustomThreeuple.csproj", "{525220F9-F3D3-4B31-8E0C-78B44C52E6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLinkedList", "GenericLinkedList\GenericLinkedList.csproj", "{5E0607B4-82AE-4C48-BD99-F642AC8BBB8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{C749F704-FADD-46C5-90C1-1FAFD54BE7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C749F704-FADD-46C5-90C1-1FAFD54BE7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C749F704-FADD-46C5-90C1-1FAFD54BE7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525220F9-F3D3-4B31-8E0C-78B44C52E6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525220F9-F3D3-4B31-8E0C-78B44C52E6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525220F9-F3D3-4B31-8E0C-78B44C52E6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525220F9-F3D3-4B31-8E0C-78B44C52E6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0607B4-82AE-4C48-BD99-F642AC8BBB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0607B4-82AE-4C48-BD99-F642AC8BBB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0607B4-82AE-4C48-BD99-F642AC8BBB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0607B4-82AE-4C48-BD99-F642AC8BBB8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

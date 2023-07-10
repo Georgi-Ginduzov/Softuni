@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericSwapMethod\\GenericSwapMethod.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericSwapMethod\\GenericSwapMethod.csproj",
       "projectName": "GenericSwapMethod",
-      "projectPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericSwapMethod\\GenericSwapMethod.csproj",
+      "projectPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericSwapMethod\\GenericSwapMethod.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericSwapMethod\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericSwapMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

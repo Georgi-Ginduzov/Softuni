@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfT\\BoxOfT.csproj": {}
+    "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfT\\BoxOfT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfT\\BoxOfT.csproj": {
+    "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfT\\BoxOfT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfT\\BoxOfT.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfT\\BoxOfT.csproj",
         "projectName": "BoxOfT",
-        "projectPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfT\\BoxOfT.csproj",
+        "projectPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfT\\BoxOfT.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\BoxOfT\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\BoxOfT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

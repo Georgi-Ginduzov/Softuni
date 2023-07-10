@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bwt/Spirtp7YOVBQ5Rcb2CVty09eWpfEcwQHRm6anq2/CRCsYqOy5mYi8+Tu6VfOxAS8s9BvWsZvZ7ZIHqtsFA==",
+  "dgSpecHash": "1bwCZxlw0PSSNEvn2LinQw5n1ylyvtqHwKZSq6KPgHfIidtl5UzxCC8CEzA3cijl0ZubWWVdHvpOhHq4BVcMFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\CompareStrings\\CompareStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

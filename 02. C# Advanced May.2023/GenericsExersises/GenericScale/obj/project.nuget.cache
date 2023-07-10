@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEg5VaWox6wAke4wS5S72Ju5PwUhnSEYQfGCUzIH3xxzRHJWoKv7fqEA685I/Vd1+ZOmIa08/Bn6xpgZjtG9Gg==",
+  "dgSpecHash": "k0kbf9JdTRz246frEXnuw0A7WnpzKLi3KMSuuC4fB+ALN53gx+JB7+Z4O1hMzTKK54K4HOZ74wKBsq0ap7wkkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\GenericsExersises\\GenericScale\\GenericScale.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\Softuni\\02. C# Advanced May.2023\\GenericsExersises\\GenericScale\\GenericScale.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
