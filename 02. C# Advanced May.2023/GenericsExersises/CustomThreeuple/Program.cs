@@ -11,7 +11,7 @@
             string[] nameAndBank = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            Threeuple<string, string, string> nameAndAdress = new($"{nameAdress[0]} {nameAdress[1]}", nameAdress[2], nameAdress[3]);
+            Threeuple<string, string, string> nameAndAdress = new($"{nameAdress[0]} {nameAdress[1]}", nameAdress[2], string.Join(" ", nameAdress[3..]));
             Console.WriteLine(nameAndAdress);
             if (nameAndDrunk[2] == "drunk")
             {
