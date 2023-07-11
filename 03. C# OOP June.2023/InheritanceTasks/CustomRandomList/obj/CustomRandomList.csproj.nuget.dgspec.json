@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj": {}
+    "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj": {
+    "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
         "projectName": "CustomRandomList",
-        "projectPath": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
+        "projectPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

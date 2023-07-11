@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomStack\\CustomStack.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomStack\\CustomStack.csproj",
       "projectName": "CustomStack",
-      "projectPath": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomStack\\CustomStack.csproj",
+      "projectPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomStack\\CustomStack.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomStack\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomStack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

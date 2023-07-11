@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+DI7u3NvNWzcfmK9KtCZbOvWvkiB4Cg1jSDEoAeY9yZyv6Ab+bgNVRrz+0BkLsF4Ct+JMqlfUWLo5oqlv6yoOQ==",
+  "dgSpecHash": "Uh7wW08AzBRhcAIMsgUq0q+/5R7wKh/Ld/HpgAatzNK4mNvi42kDmiBfskCBS2GFyifHQhazOAJqBCKODfuOqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InheritanceTasks\\CustomRandomList\\CustomRandomList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
