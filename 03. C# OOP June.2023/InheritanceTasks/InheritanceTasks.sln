@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm", "SingleInheritance\F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{05FBCFCC-0EC2-4E13-A516-1188A7A12BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{C85FD681-1B74-41D6-96AD-231C6FB2937F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomStack", "CustomStack\CustomStack.csproj", "{C85FD681-1B74-41D6-96AD-231C6FB2937F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "NeedForSpeed\NeedForSpeed.csproj", "{5628DE42-D9DF-4B10-B4D7-DE2C875C3495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C85FD681-1B74-41D6-96AD-231C6FB2937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85FD681-1B74-41D6-96AD-231C6FB2937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85FD681-1B74-41D6-96AD-231C6FB2937F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5628DE42-D9DF-4B10-B4D7-DE2C875C3495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5628DE42-D9DF-4B10-B4D7-DE2C875C3495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5628DE42-D9DF-4B10-B4D7-DE2C875C3495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5628DE42-D9DF-4B10-B4D7-DE2C875C3495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
