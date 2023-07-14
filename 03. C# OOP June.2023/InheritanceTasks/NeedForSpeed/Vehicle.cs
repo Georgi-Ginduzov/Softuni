@@ -29,7 +29,7 @@ namespace NeedForSpeed
 
         public virtual void Drive(double kilometers)
         {
-            Fuel -= kilometers * FuelConsumption;
+            Fuel -= (kilometers / 100) * FuelConsumption;
         }
 
     }
