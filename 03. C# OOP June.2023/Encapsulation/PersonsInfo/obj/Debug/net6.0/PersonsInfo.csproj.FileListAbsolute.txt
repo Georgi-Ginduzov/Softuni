@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\User\source\repos\Encapsulation\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\Encapsulation\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll
