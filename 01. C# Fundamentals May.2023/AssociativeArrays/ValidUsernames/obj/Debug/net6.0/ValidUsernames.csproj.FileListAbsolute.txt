@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.exe
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.deps.json
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.dll
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.pdb
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.dll
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\refint\ValidUsernames.dll
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.pdb
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.genruntimeconfig.cache
+C:\Users\User\source\repos\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ref\ValidUsernames.dll
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.exe
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.deps.json
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.runtimeconfig.json
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.dll
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\bin\Debug\net6.0\ValidUsernames.pdb
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.AssemblyInfo.cs
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.dll
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\refint\ValidUsernames.dll
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.pdb
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ValidUsernames.genruntimeconfig.cache
+C:\Users\User\source\Softuni\01. C# Fundamentals May.2023\AssociativeArrays\ValidUsernames\obj\Debug\net6.0\ref\ValidUsernames.dll

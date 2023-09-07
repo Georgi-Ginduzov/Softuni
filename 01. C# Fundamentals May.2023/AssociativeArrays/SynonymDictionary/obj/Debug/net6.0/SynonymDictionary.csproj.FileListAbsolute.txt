@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\bin\Debug\net6.0\SynonymDictionary.exe
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\bin\Debug\net6.0\SynonymDictionary.deps.json
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\bin\Debug\net6.0\SynonymDictionary.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\bin\Debug\net6.0\SynonymDictionary.dll
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\bin\Debug\net6.0\SynonymDictionary.pdb
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.dll
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\refint\SynonymDictionary.dll
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.pdb
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\SynonymDictionary.genruntimeconfig.cache
+C:\Users\User\source\repos\AssociativeArrays\SynonymDictionary\obj\Debug\net6.0\ref\SynonymDictionary.dll
