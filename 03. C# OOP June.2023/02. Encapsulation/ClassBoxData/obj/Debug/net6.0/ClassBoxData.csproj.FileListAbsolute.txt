@@ -1,0 +1,15 @@
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

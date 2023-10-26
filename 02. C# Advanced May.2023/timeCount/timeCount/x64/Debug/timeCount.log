@@ -1,0 +1,5 @@
+﻿  timeCount.cpp
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\timeCount\timeCount\timeCount.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\timeCount\timeCount\timeCount.cpp(11,14): warning C4101: 'c1': unreferenced local variable
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\timeCount\timeCount\timeCount.cpp(10,13): warning C4101: 't1': unreferenced local variable
+C:\Users\User\source\Softuni\02. C# Advanced May.2023\timeCount\timeCount\timeCount.cpp(45,13): error C3861: 'swap': identifier not found

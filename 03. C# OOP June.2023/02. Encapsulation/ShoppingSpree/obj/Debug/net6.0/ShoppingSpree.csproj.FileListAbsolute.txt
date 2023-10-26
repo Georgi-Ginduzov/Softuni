@@ -1,0 +1,14 @@
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\User\source\Softuni\03. C# OOP June.2023\02. Encapsulation\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll
