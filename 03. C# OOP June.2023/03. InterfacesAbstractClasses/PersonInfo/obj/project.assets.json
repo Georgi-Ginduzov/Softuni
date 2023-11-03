@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\PersonInfo\\PersonInfo.csproj",
-      "projectName": "PersonInfo",
-      "projectPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\PersonInfo\\PersonInfo.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\PersonInfo\\obj\\",
+      "projectUniqueName": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\PersonInfo\\E01. PersonInfo.csproj",
+      "projectName": "E01. PersonInfo",
+      "projectPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\PersonInfo\\E01. PersonInfo.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\PersonInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\Cars\\Cars.csproj": {}
+    "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\Cars\\Cars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\Cars\\Cars.csproj": {
+    "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\Cars\\Cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\Cars\\Cars.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\Cars\\Cars.csproj",
         "projectName": "Cars",
-        "projectPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\Cars\\Cars.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\Softuni\\03. C# OOP June.2023\\InterfacesAbstractClasses\\Cars\\obj\\",
+        "projectPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\Cars\\Cars.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\Cars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
