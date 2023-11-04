@@ -1,0 +1,15 @@
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\bin\Debug\net6.0\E04. BorderControl.exe
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\bin\Debug\net6.0\E04. BorderControl.deps.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\bin\Debug\net6.0\E04. BorderControl.runtimeconfig.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\bin\Debug\net6.0\E04. BorderControl.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\bin\Debug\net6.0\E04. BorderControl.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.csproj.AssemblyReference.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.AssemblyInfoInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.AssemblyInfo.cs
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\refint\E04. BorderControl.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\E04. BorderControl.genruntimeconfig.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\BorderControl\obj\Debug\net6.0\ref\E04. BorderControl.dll

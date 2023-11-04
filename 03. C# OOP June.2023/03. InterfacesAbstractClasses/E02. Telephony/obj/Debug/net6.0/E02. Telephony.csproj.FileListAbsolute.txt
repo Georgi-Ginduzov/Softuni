@@ -1,0 +1,15 @@
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.csproj.AssemblyReference.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.AssemblyInfoInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.AssemblyInfo.cs
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\bin\Debug\net6.0\E02. Telephony.exe
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\bin\Debug\net6.0\E02. Telephony.deps.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\bin\Debug\net6.0\E02. Telephony.runtimeconfig.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\bin\Debug\net6.0\E02. Telephony.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\bin\Debug\net6.0\E02. Telephony.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\refint\E02. Telephony.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\E02. Telephony.genruntimeconfig.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\E02. Telephony\obj\Debug\net6.0\ref\E02. Telephony.dll

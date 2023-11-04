@@ -1,0 +1,15 @@
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

@@ -1,0 +1,5 @@
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\obj\Debug\net6.0\E01. PersonInfo.csproj.AssemblyReference.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\obj\Debug\net6.0\E01. PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\obj\Debug\net6.0\E01. PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\obj\Debug\net6.0\E01. PersonInfo.AssemblyInfo.cs
+C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\obj\Debug\net6.0\E01. PersonInfo.csproj.CoreCompileInputs.cache

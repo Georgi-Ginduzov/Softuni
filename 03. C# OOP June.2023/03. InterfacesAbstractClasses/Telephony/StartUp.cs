@@ -1,19 +1,18 @@
-﻿namespace Telephony
+﻿
+using Telephony.Core;
+using Telephony.Core.Interfaces;
+using Telephony.IO;
+
+namespace Telephony
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        
+        public static void Main(string[] args)
         {
-            string[] inputNubers = Console.ReadLine().Split(" ").Where;
-            string[] inputWebsites = Console.ReadLine().Split(" ");
-
-            for (int i = 0; i < inputNubers.Length; i++)
-            {
-                if (true)
-                {
-
-                }
-            }
+            IEngine engine = new Engine(new ConsoleReader(),new ConsoleWriter());
+            
+            engine.Run();
         }
     }
 }
