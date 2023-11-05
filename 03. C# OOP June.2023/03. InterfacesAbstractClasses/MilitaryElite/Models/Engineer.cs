@@ -1,6 +1,7 @@
 ﻿namespace MilitaryElite.Models
 {
-    public class Engineer
+    public class Engineer : Speciali
     {
+
     }
 }
