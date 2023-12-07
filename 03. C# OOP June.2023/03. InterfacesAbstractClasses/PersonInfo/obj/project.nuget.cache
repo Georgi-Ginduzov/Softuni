@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+f52wU4LuKJ2HkwtfV0OTaRdRsTsMGW3hI3OGdOu8LT7bHMeU9g0uY3SUQb9JOrys1KpTNo1Q+QwyMyaS66A4Q==",
+  "dgSpecHash": "xTTteeEVr33LGfzBKugSZTw/e/1BewQaKhNG5/8VNeYIP4JOZQhH4GLoCUESccTSgAtsTBEkqER+Gzh/rRNfSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\PersonInfo\\E01. PersonInfo.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\PersonInfo\\E01. PersonInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

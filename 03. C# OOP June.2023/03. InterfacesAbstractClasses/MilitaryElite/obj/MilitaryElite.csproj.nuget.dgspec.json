@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj",
         "projectName": "MilitaryElite",
-        "projectPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\source\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\MilitaryElite.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

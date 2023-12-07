@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E01._PersonInfo
-build_property.ProjectDir = C:\Users\Student\source\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\
+build_property.ProjectDir = C:\Users\Asus\source\repos\Softuni\03. C# OOP June.2023\03. InterfacesAbstractClasses\PersonInfo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
