@@ -1,4 +1,12 @@
 function factorialDivision(a, b){
+    const factorial = (n) => {
+        let result = 1;
+        for(let i = 1; i <= n; i++){
+            result *= i;
+        }
+        return result;
+    }
+
     if (a === 0){
         a = 1;
     }
@@ -6,18 +14,7 @@ function factorialDivision(a, b){
         b = 1;
     }
     
-    if (a < b) {
-        const buffer = a;
-        a = b;
-        b = buffer;
-    }
-
-    let result = 1;
-    for(let i = a; i > b; i--){
-        result *= i;
-    }
-
-    console.log(result.toFixed(2));
+    console.log((factorial(a) / factorial(b)).toFixed(2));
 }
 
 factorialDivision(5, 2); // 60
