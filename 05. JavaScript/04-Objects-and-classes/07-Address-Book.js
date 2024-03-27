@@ -9,8 +9,8 @@ function solve(input){
     let sortedBook = Object.entries(addressBook);
     sortedBook.sort((a, b) => a[0].localeCompare(b[0]));
 
-    for (const person of sortedBook) {
-        console.log(`${person[0]} -> ${person[1]}`);
+    for (const name of sortedBook) {
+        console.log(`${name[0]} -> ${name[1]}`);
     }
 }
 

@@ -12,8 +12,6 @@ function solve(input){
         }
     }
 
- 
-
     for (const word in wordsCounter) {
         if (wordsCounter[word] % 2 === 0) {
             delete(wordsCounter[word]);

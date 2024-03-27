@@ -8,7 +8,6 @@ class Song{
 
 function solve(input){
     const n = input[0];
-    console.log(n);
 
     songs = [];
 
@@ -17,10 +16,13 @@ function solve(input){
         songs.push(new Song(typeList, name, time));
     }
 
-    songs.forEach(song => {
+    if(input[input.length - 1] === "all")
+        songs.forEach(song => console.log(song.name));
+    else
+        songs.forEach(song => {
         if(song.typeList === input[input.length - 1])
             console.log(song.name);
-    });
+        });
 }
 
 solve(
