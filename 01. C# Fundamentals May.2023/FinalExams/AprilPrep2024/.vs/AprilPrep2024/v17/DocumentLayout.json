@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "BakeryShop\\Shop.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\AprilPrep2024\\BakeryShop\\Shop.cs",
               "RelativeToolTip": "BakeryShop\\Shop.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAwF8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T04:54:57.845Z",
               "EditorCaption": ""
@@ -45,7 +41,7 @@
               "RelativeDocumentMoniker": "BakeryShop\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\AprilPrep2024\\BakeryShop\\Program.cs",
               "RelativeToolTip": "BakeryShop\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T04:52:39.131Z",
               "EditorCaption": ""

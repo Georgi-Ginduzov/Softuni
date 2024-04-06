@@ -8,8 +8,8 @@ namespace BakeryShop
 
         public Shop()
         {
-            this.Stock = new Dictionary<string, int>();
-            this.Soldstock = 0;
+            Stock = new Dictionary<string, int>();
+            Soldstock = 0;
         }
 
         public Dictionary<string, int> Stock { get; set; }
