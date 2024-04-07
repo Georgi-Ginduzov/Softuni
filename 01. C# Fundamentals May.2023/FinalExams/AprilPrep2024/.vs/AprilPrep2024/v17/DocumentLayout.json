@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\AprilPrep2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\aprilprep2024\\bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\aprilprep2024\\bakeryshop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\aprilprep2024\\bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B939AF-10FA-498B-B8D7-9462043AC1DF}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Shop.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\AprilPrep2024\\BakeryShop\\Shop.cs",
               "RelativeDocumentMoniker": "BakeryShop\\Shop.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\AprilPrep2024\\BakeryShop\\Program.cs",
               "RelativeDocumentMoniker": "BakeryShop\\Program.cs",

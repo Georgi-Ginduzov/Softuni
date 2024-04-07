@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberretake2023\\thepianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|solutionrelative:thepianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberretake2023\\thepianist\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|solutionrelative:thepianist\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberretake2023\\thepianist\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05980E-BA55-456C-A949-D661F5375B1A}|ThePianist\\ThePianist.csproj|solutionrelative:thepianist\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Album.cs",
+              "RelativeDocumentMoniker": "ThePianist\\Album.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Album.cs",
+              "RelativeToolTip": "ThePianist\\Album.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAcwF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:56:48.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Piece.cs",
+              "RelativeDocumentMoniker": "ThePianist\\Piece.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Piece.cs",
+              "RelativeToolTip": "ThePianist\\Piece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:51:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Program.cs",
+              "RelativeDocumentMoniker": "ThePianist\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\ThePianist\\Program.cs",
+              "RelativeToolTip": "ThePianist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:42:02.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
