@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThePianist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2800864341f8458b7d1bf43e549a382b403176ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8b210d6e497220c66844200025283abd739d0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThePianist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThePianist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

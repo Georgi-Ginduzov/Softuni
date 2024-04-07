@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePianist", "ThePianist\ThePianist.csproj", "{2E05980E-BA55-456C-A949-D661F5375B1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdAstra", "AdAstra\AdAstra.csproj", "{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdAstra", "AdAstra\AdAstra.csproj", "{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheImitationGame", "TheImitationGame\TheImitationGame.csproj", "{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

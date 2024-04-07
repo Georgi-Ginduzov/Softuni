@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}|TheImitationGame\\TheImitationGame.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberretake2023\\theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A9C150-CD9F-42CB-B50F-AF0A5F80D044}|TheImitationGame\\TheImitationGame.csproj|solutionrelative:theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}|AdAstra\\AdAstra.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberretake2023\\adastra\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA7C9F0-00F6-4C0C-9001-17CBB27E8314}|AdAstra\\AdAstra.csproj|solutionrelative:adastra\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\TheImitationGame\\Program.cs",
+              "RelativeDocumentMoniker": "TheImitationGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\TheImitationGame\\Program.cs",
+              "RelativeToolTip": "TheImitationGame\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:04:25.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\AdAstra\\Food.cs",
               "RelativeDocumentMoniker": "AdAstra\\Food.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberRetake2023\\AdAstra\\Program.cs",
               "RelativeDocumentMoniker": "AdAstra\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "AdAstra\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:01:36.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T10:01:36.178Z"
             }
           ]
         }
