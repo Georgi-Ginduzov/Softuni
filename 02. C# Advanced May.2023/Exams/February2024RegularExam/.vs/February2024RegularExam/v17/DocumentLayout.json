@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59A698E5-2AC4-4181-9885-497097557982}|SharkTaxonomyTest\\SharkTaxonomyTest.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\sharktaxonomytest\\test_000_113.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A698E5-2AC4-4181-9885-497097557982}|SharkTaxonomyTest\\SharkTaxonomyTest.csproj|solutionrelative:sharktaxonomytest\\test_000_113.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE6C39F-314D-4EF4-BC10-CA437144B8AB}|ChickenSnack\\ChickenSnack.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE6C39F-314D-4EF4-BC10-CA437144B8AB}|ChickenSnack\\ChickenSnack.csproj|solutionrelative:chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\february2024regularexam\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9930603F-FC2D-411F-A14E-48C0E24B3635}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Test_000_113.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomyTest\\Test_000_113.cs",
-              "RelativeDocumentMoniker": "SharkTaxonomyTest\\Test_000_113.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomyTest\\Test_000_113.cs",
-              "RelativeToolTip": "SharkTaxonomyTest\\Test_000_113.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABEAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "ChickenSnack\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\ChickenSnack\\Program.cs",
+              "RelativeToolTip": "ChickenSnack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:01:47.751Z",
+              "WhenOpened": "2024-04-08T11:55:59.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Classifier.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomy\\Classifier.cs",
               "RelativeDocumentMoniker": "SharkTaxonomy\\Classifier.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomy\\Classifier.cs",
               "RelativeToolTip": "SharkTaxonomy\\Classifier.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAArAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:16:10.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T10:16:10.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shark.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomy\\Shark.cs",
               "RelativeDocumentMoniker": "SharkTaxonomy\\Shark.cs",
@@ -68,12 +63,11 @@
               "RelativeToolTip": "SharkTaxonomy\\Shark.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:07:55.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T10:07:55.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\February2024RegularExam\\SharkTaxonomy\\StartUp.cs",
               "RelativeDocumentMoniker": "SharkTaxonomy\\StartUp.cs",
@@ -81,8 +75,7 @@
               "RelativeToolTip": "SharkTaxonomy\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T10:07:53.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T10:07:53.899Z"
             }
           ]
         }
