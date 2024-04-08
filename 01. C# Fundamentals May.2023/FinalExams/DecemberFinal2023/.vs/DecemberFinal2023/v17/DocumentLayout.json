@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberFinal2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D0AD33-FC09-4334-9D32-2E0858E76C44}|PlantDiscovery\\PlantDiscovery.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\decemberfinal2023\\plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D0AD33-FC09-4334-9D32-2E0858E76C44}|PlantDiscovery\\PlantDiscovery.csproj|solutionrelative:plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberFinal2023\\PlantDiscovery\\Program.cs",
+              "RelativeDocumentMoniker": "PlantDiscovery\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\DecemberFinal2023\\PlantDiscovery\\Program.cs",
+              "RelativeToolTip": "PlantDiscovery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:41:48.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

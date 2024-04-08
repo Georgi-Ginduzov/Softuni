@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldTour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64d13b71529c7d8bf990e1043230bcb9c092c0b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa65432e74f4beba950b8bacd8c063182349bdf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldTour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldTour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
