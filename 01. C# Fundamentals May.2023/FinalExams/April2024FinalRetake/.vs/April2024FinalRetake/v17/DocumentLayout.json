@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}|BattleManager\\BattleManager.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\april2024finalretake\\battlemanager\\personstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}|BattleManager\\BattleManager.csproj|solutionrelative:battlemanager\\personstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}|BattleManager\\BattleManager.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\april2024finalretake\\battlemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}|BattleManager\\BattleManager.csproj|solutionrelative:battlemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07D06734-7B77-4AE5-BA93-395712DB35F6}|WariorQuest\\WariorQuest.csproj|c:\\users\\asus\\source\\repos\\softuni\\01. c# fundamentals may.2023\\finalexams\\april2024finalretake\\wariorquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D06734-7B77-4AE5-BA93-395712DB35F6}|WariorQuest\\WariorQuest.csproj|solutionrelative:wariorquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonStats.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\BattleManager\\PersonStats.cs",
-              "RelativeDocumentMoniker": "BattleManager\\PersonStats.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\BattleManager\\PersonStats.cs",
-              "RelativeToolTip": "BattleManager\\PersonStats.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T06:34:02.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\BattleManager\\Program.cs",
-              "RelativeDocumentMoniker": "BattleManager\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\BattleManager\\Program.cs",
-              "RelativeToolTip": "BattleManager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\WariorQuest\\Program.cs",
+              "RelativeDocumentMoniker": "WariorQuest\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\01. C# Fundamentals May.2023\\FinalExams\\April2024FinalRetake\\WariorQuest\\Program.cs",
+              "RelativeToolTip": "WariorQuest\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswEUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T06:13:18.186Z",
+              "WhenOpened": "2024-04-08T06:51:21.867Z",
               "EditorCaption": ""
             }
           ]

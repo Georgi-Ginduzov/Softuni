@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleManager", "BattleManager\BattleManager.csproj", "{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleManager", "BattleManager\BattleManager.csproj", "{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRace", "TheRace\TheRace.csproj", "{77754D70-6B98-4B0B-B2FA-84FF7FCD0516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WariorQuest", "WariorQuest\WariorQuest.csproj", "{07D06734-7B77-4AE5-BA93-395712DB35F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D62E8CD-067C-4AE9-9364-683CAA4DD8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77754D70-6B98-4B0B-B2FA-84FF7FCD0516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77754D70-6B98-4B0B-B2FA-84FF7FCD0516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77754D70-6B98-4B0B-B2FA-84FF7FCD0516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77754D70-6B98-4B0B-B2FA-84FF7FCD0516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D06734-7B77-4AE5-BA93-395712DB35F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D06734-7B77-4AE5-BA93-395712DB35F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D06734-7B77-4AE5-BA93-395712DB35F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D06734-7B77-4AE5-BA93-395712DB35F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
