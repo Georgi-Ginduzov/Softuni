@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FE9D8C2-E957-413C-B7DD-375F119F777D}|GroceriesManagementUnitTest\\GroceriesManagementUnitTest.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\decemberretake2023\\groceriesmanagementunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE9D8C2-E957-413C-B7DD-375F119F777D}|GroceriesManagementUnitTest\\GroceriesManagementUnitTest.csproj|solutionrelative:groceriesmanagementunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\decemberretake2023\\groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\decemberretake2023\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\decemberretake2023\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\decemberretake2023\\groceriesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F82BD5-28C0-4F9C-9B5B-0D53308B1D4C}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagementUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GroceriesManagementUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagementUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "GroceriesManagementUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:22:40.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\StartUp.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\StartUp.cs",
+              "RelativeToolTip": "GroceriesManagement\\StartUp.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:06:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroceriesStore.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\GroceriesStore.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeToolTip": "GroceriesManagement\\GroceriesStore.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:59:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\Product.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\Product.cs",
+              "RelativeToolTip": "GroceriesManagement\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:57:06.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\Program.cs",
               "RelativeDocumentMoniker": "GroceriesManagement\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\DecemberRetake2023\\GroceriesManagement\\Program.cs",
               "RelativeToolTip": "GroceriesManagement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T07:50:15.217Z",
               "EditorCaption": ""
