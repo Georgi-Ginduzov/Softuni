@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiePursuit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e417013d339c5537b27491cf3bc08c0ef01aef18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1caff8578e53fffe80f7cf5f619b01cb1dcfed95")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiePursuit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiePursuit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
