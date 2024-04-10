@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Queue<int> contestants = new Queue<int>(Console.ReadLine().Split().Select(int.Parse));
-            Stack<int> pies = new Stack<int>(Console.ReadLine().Split().Select(int.Parse));
+            Queue<int> contestants = new Queue<int>(Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+            Stack<int> pies = new Stack<int>(Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
 
             while (contestants.Count > 0 && pies.Count > 0)
             {
@@ -51,7 +51,7 @@
             else
             {
                 Console.WriteLine("Our contestants need to rest!".Trim());
-                Console.WriteLine($"Pies left: {string.Join(" ", pies).Trim()}".Trim());
+                Console.WriteLine($"Pies left: {string.Join(", ", pies).Trim()}".Trim());
             }
         }
     }
