@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\aprilretake2024\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\aprilretake2024\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\aprilretake2024\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE77350-C8E8-471C-AEBA-BCE16C21DA73}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F14B66-A87B-4B2F-9313-66D30DDB2975}|DataCenterUnitTest\\DataCenterUnitTest.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\aprilretake2024\\datacenterunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F14B66-A87B-4B2F-9313-66D30DDB2975}|DataCenterUnitTest\\DataCenterUnitTest.csproj|solutionrelative:datacenterunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenterUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DataCenterUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenterUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "DataCenterUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:24:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\StartUp.cs",
+              "RelativeDocumentMoniker": "DataCenter\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\StartUp.cs",
+              "RelativeToolTip": "DataCenter\\StartUp.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:20:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rack.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\Rack.cs",
+              "RelativeDocumentMoniker": "DataCenter\\Rack.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\Rack.cs",
+              "RelativeToolTip": "DataCenter\\Rack.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwEQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:09:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\Server.cs",
+              "RelativeDocumentMoniker": "DataCenter\\Server.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\AprilRetake2024\\DataCenter\\Server.cs",
+              "RelativeToolTip": "DataCenter\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:07:35.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
