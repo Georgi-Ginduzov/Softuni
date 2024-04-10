@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\october2023\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21749A3E-5EAE-4C2F-B590-9D17BBFE1ED1}|FishingCompetition\\FishingCompetition.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\october2023\\fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21749A3E-5EAE-4C2F-B590-9D17BBFE1ED1}|FishingCompetition\\FishingCompetition.csproj|solutionrelative:fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\october2023\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\OffroadChallenge\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OffroadChallenge\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\october2023\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|solutionrelative:mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D207C08-430A-4415-BBDD-67A853339251}|MailClient\\MailClient.csproj|c:\\users\\asus\\source\\repos\\softuni\\02. c# advanced may.2023\\exams\\october2023\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\FishingCompetition\\Program.cs",
+              "RelativeDocumentMoniker": "FishingCompetition\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\FishingCompetition\\Program.cs",
+              "RelativeToolTip": "FishingCompetition\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAWwFcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:10:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\OffroadChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "OffroadChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\OffroadChallenge\\Program.cs",
+              "RelativeToolTip": "OffroadChallenge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:07:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\MailClient\\StartUp.cs",
               "RelativeDocumentMoniker": "MailClient\\StartUp.cs",
@@ -38,8 +72,7 @@
               "RelativeToolTip": "MailClient\\StartUp.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwD0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T18:49:33.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T18:49:33.531Z"
             },
             {
               "$type": "Document",
@@ -49,14 +82,14 @@
               "RelativeDocumentMoniker": "MailClient\\MailBox.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\MailClient\\MailBox.cs",
               "RelativeToolTip": "MailClient\\MailBox.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAuwCsAAAAaAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T18:39:21.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Mail.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\02. C# Advanced May.2023\\Exams\\October2023\\MailClient\\Mail.cs",
               "RelativeDocumentMoniker": "MailClient\\Mail.cs",
@@ -64,8 +97,7 @@
               "RelativeToolTip": "MailClient\\Mail.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T18:37:02.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T18:37:02.107Z"
             }
           ]
         }
