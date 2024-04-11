@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operations", "MathOperations\Operations.csproj", "{FC7B0867-5098-401F-8F6A-6097663C2BD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Operations", "MathOperations\01.Operations.csproj", "{FC7B0867-5098-401F-8F6A-6097663C2BD3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{CA3FE039-E294-4C49-9911-BFCC5E632B80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Animals", "Animals\02.Animals.csproj", "{CA3FE039-E294-4C49-9911-BFCC5E632B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{533F7518-D42D-4793-BC8E-777D9983BE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Shapes", "Shapes\03.Shapes.csproj", "{533F7518-D42D-4793-BC8E-777D9983BE66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

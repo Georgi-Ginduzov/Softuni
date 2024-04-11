@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\Operations.csproj",
-      "projectName": "Operations",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\Operations.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\01.Operations.csproj",
+      "projectName": "01.Operations",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\01.Operations.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\obj\\",
       "projectStyle": "PackageReference",

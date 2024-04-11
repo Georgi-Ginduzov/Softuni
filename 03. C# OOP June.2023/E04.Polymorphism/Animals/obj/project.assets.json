@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\Animals\\Animals.csproj",
-      "projectName": "Animals",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\Animals\\Animals.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\Animals\\02.Animals.csproj",
+      "projectName": "02.Animals",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\Animals\\02.Animals.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\Animals\\obj\\",
       "projectStyle": "PackageReference",

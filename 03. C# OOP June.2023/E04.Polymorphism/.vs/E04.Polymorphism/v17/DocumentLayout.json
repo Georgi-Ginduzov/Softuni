@@ -117,7 +117,8 @@
               "RelativeToolTip": "Animals\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.831Z"
+              "WhenOpened": "2024-04-11T11:02:20.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +128,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
-              "ViewState": "AQIAAMUAAAAAAAAAAAAvwNgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2023-11-06T16:38:40.092Z"
             },
@@ -141,7 +141,8 @@
               "RelativeToolTip": "MathOperations\\MathOperations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.869Z"
+              "WhenOpened": "2024-04-11T11:02:20.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -153,7 +154,8 @@
               "RelativeToolTip": "Animals\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.875Z"
+              "WhenOpened": "2024-04-11T11:02:20.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -165,7 +167,8 @@
               "RelativeToolTip": "Animals\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.88Z"
+              "WhenOpened": "2024-04-11T11:02:20.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -177,7 +180,8 @@
               "RelativeToolTip": "Animals\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.885Z"
+              "WhenOpened": "2024-04-11T11:02:20.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -189,7 +193,8 @@
               "RelativeToolTip": "MathOperations\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:02:20.892Z"
+              "WhenOpened": "2024-04-11T11:02:20.892Z",
+              "EditorCaption": ""
             }
           ]
         }

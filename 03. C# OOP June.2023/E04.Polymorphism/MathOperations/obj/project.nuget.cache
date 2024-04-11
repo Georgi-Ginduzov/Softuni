@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQWCQnRSwlj+q8R6DAeveFwBIXr5JU3JMYqeIU2kVsCesU6zBDXVhuGdwYvwhmnVA5HDEwjdcejZ7KYJMp16aw==",
+  "dgSpecHash": "cKiRyN0kQ2FUuMBodlujnfXVcVaZW1+xLCeLaYVrRiLhva0DsJXMjzwdO4Hqc5z9RQWuGk5CzVT4zMYovSWqmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\Operations.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\MathOperations\\01.Operations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
