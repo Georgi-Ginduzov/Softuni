@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\03. interfacesabstractclasses\\militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF55CEB2-4E79-4F88-A8C4-59C38F1AD50A}|BorderControl\\E04. BorderControl.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\03. interfacesabstractclasses\\bordercontrol\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF55CEB2-4E79-4F88-A8C4-59C38F1AD50A}|BorderControl\\E04. BorderControl.csproj|solutionrelative:bordercontrol\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -133,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\03. interfacesabstractclasses\\militaryelite\\models\\interfaces\\iprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\interfaces\\iprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\03. interfacesabstractclasses\\militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88FC53EA-7F2C-4A4F-9AD4-52C8D0F56D13}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\03. interfacesabstractclasses\\militaryelite\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -294,11 +294,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Robot.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Models\\Robot.cs",
               "RelativeDocumentMoniker": "BorderControl\\Models\\Robot.cs",
@@ -306,12 +306,11 @@
               "RelativeToolTip": "BorderControl\\Models\\Robot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:56:02.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T14:56:02.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Models\\Citizen.cs",
               "RelativeDocumentMoniker": "BorderControl\\Models\\Citizen.cs",
@@ -319,12 +318,11 @@
               "RelativeToolTip": "BorderControl\\Models\\Citizen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:54:59.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T14:54:59.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IEngine.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Core\\Interfaces\\IEngine.cs",
               "RelativeDocumentMoniker": "BorderControl\\Core\\Interfaces\\IEngine.cs",
@@ -332,25 +330,24 @@
               "RelativeToolTip": "BorderControl\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-24T07:02:09.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-24T07:02:09.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Core\\Engine.cs",
               "RelativeDocumentMoniker": "BorderControl\\Core\\Engine.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Core\\Engine.cs",
               "RelativeToolTip": "BorderControl\\Core\\Engine.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA4AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-24T07:02:09.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\StartUp.cs",
               "RelativeDocumentMoniker": "BorderControl\\StartUp.cs",
@@ -358,12 +355,24 @@
               "RelativeToolTip": "BorderControl\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-24T07:03:56.197Z",
+              "WhenOpened": "2023-11-24T07:03:56.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\StartUp.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\StartUp.cs",
+              "RelativeToolTip": "MilitaryElite\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:02:09.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConsoleReader.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\IO\\ConsoleReader.cs",
               "RelativeDocumentMoniker": "BorderControl\\IO\\ConsoleReader.cs",
@@ -371,12 +380,11 @@
               "RelativeToolTip": "BorderControl\\IO\\ConsoleReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-24T07:15:06.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-24T07:15:06.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ICitizen.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\Models\\Interfaces\\ICitizen.cs",
               "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\ICitizen.cs",
@@ -384,12 +392,11 @@
               "RelativeToolTip": "BorderControl\\Models\\Interfaces\\ICitizen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:12:56.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:12:56.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConsoleWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\IO\\ConsoleWriter.cs",
               "RelativeDocumentMoniker": "BorderControl\\IO\\ConsoleWriter.cs",
@@ -397,12 +404,11 @@
               "RelativeToolTip": "BorderControl\\IO\\ConsoleWriter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-24T07:17:54.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-24T07:17:54.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IReader.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\IO\\Interfaces\\IReader.cs",
               "RelativeDocumentMoniker": "BorderControl\\IO\\Interfaces\\IReader.cs",
@@ -414,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\BorderControl\\IO\\Interfaces\\IWriter.cs",
               "RelativeDocumentMoniker": "BorderControl\\IO\\Interfaces\\IWriter.cs",
@@ -426,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SpecialisedSoldier.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\SpecialisedSoldier.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\SpecialisedSoldier.cs",
@@ -438,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ConsoleWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\IO\\ConsoleWriter.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\IO\\ConsoleWriter.cs",
@@ -462,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ConsoleReader.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\IO\\ConsoleReader.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\IO\\ConsoleReader.cs",
@@ -474,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Soldier.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Soldier.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Soldier.cs",
@@ -486,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\IO\\Interfaces\\IWriter.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\IO\\Interfaces\\IWriter.cs",
@@ -510,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IReader.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\IO\\Interfaces\\IReader.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\IO\\Interfaces\\IReader.cs",
@@ -522,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Private.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Private.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Private.cs",
@@ -534,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Spy.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Spy.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Spy.cs",
@@ -546,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LieutenantGeneral.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\LieutenantGeneral.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\LieutenantGeneral.cs",
@@ -558,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Engineer.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Engineer.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Engineer.cs",
@@ -570,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "E02. Telephony.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\E02. Telephony\\E02. Telephony.csproj",
               "RelativeDocumentMoniker": "E02. Telephony\\E02. Telephony.csproj",
@@ -578,11 +584,12 @@
               "RelativeToolTip": "E02. Telephony\\E02. Telephony.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-24T07:02:09.967Z"
+              "WhenOpened": "2023-11-24T07:02:09.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ICommando.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\ICommando.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\ICommando.cs",
@@ -594,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IMission.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\IMission.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\IMission.cs",
@@ -606,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Enums\\State.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Enums\\State.cs",
@@ -618,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IRepair.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\IRepair.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\IRepair.cs",
@@ -630,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ISoldier.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\ISoldier.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\ISoldier.cs",
@@ -642,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Corps.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Enums\\Corps.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Enums\\Corps.cs",
@@ -654,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IEngineer.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\IEngineer.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\IEngineer.cs",
@@ -666,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Commando.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Commando.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Commando.cs",
@@ -678,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ISpecialisedSoldier.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
@@ -690,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ISpy.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\ISpy.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\ISpy.cs",
@@ -702,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ILieutenantGeneral.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\ILieutenantGeneral.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\ILieutenantGeneral.cs",
@@ -714,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IPrivate.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\Models\\Interfaces\\IPrivate.cs",
               "RelativeDocumentMoniker": "MilitaryElite\\Models\\Interfaces\\IPrivate.cs",
@@ -735,18 +742,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T11:02:54.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\StartUp.cs",
-              "RelativeDocumentMoniker": "MilitaryElite\\StartUp.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\MilitaryElite\\StartUp.cs",
-              "RelativeToolTip": "MilitaryElite\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-24T07:02:09.979Z"
             },
             {
               "$type": "Document",
@@ -830,7 +825,8 @@
               "RelativeToolTip": "BorderControl\\E04. BorderControl.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-24T07:02:09.988Z"
+              "WhenOpened": "2023-11-24T07:02:09.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -985,7 +981,8 @@
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\03. InterfacesAbstractClasses\\E02. Telephony\\E02. Telephony.csproj",
               "RelativeToolTip": "E02. Telephony\\E02. Telephony.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-11-24T07:02:09.997Z"
+              "WhenOpened": "2023-11-24T07:02:09.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
