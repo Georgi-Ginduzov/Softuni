@@ -16,5 +16,6 @@
 
         public override double CalculatePerimeter()
         => (2 * Math.PI * Radius);
+        public override string Draw() => $"Drawing {this.GetType().Name}";
     }
 }

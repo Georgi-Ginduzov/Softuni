@@ -17,7 +17,8 @@
         public override double CalculateArea()
                 => Height * Width;
         public override double CalculatePerimeter()
-                => 2 * (Height * Width);
+                => 2 * (Height + Width);
+        public override string Draw() => $"Drawing {this.GetType().Name}";
 
     }
 }
