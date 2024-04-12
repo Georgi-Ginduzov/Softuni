@@ -5,16 +5,18 @@ namespace Vehicles.Models
     public abstract class Vehicle : IVehicle
     {
         private double increasedConsumption;
-        protected Vehicle(double fuelQuantity, double fuelConsumption, double increasedConsumption)
+        protected Vehicle(double fuelQuantity, double fuelConsumption, int tankCapacity, double increasedConsumption)
         {
             FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
+            TankCapacity = tankCapacity;
             this.increasedConsumption = increasedConsumption;
         }
 
         public double FuelQuantity { get; private set; }
 
         public double FuelConsumption { get; private set; }
+        public int TankCapacity { get; set; }
 
         public string Drive(double distance)
         {
@@ -29,6 +31,15 @@ namespace Vehicles.Models
             return $"{GetType().Name} travelled {distance} km";
         }
 
-        public virtual void Refuel(double amount) => FuelQuantity += amount;
+        public virtual void Refuel(double amount) {
+            if (amount <= 0)
+            {
+                throw new ArgumentException("Fuel must be a positive number");
+            }
+            else if (amount + FuelQuantity > TankCapacity)
+            {
+                throw new ArgumentException($"Cannot fit {amount} fuel in the tank");
+            }
+        }
     }
 }

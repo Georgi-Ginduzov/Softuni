@@ -54,13 +54,20 @@ namespace Vehicles.Core
                         }
                         break;
                         case "Refuel":
-                            if (input[1] == "Car")
+                            try
                             {
-                                car.Refuel(double.Parse(input[2]));
+                                if (input[1] == "Car")
+                                {
+                                    car.Refuel(double.Parse(input[2]));
+                                }
+                                else if (input[1] == "Truck")
+                                {
+                                    truck.Refuel(double.Parse(input[2]));
+                                }
                             }
-                            else if (input[1] == "Truck")
+                            catch (ArgumentException e)
                             {
-                                truck.Refuel(double.Parse(input[2]));
+                                Console.WriteLine(e.Message);
                             }
                             break;
                     default:
