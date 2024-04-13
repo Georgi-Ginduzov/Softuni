@@ -15,7 +15,14 @@ namespace Vehicles.Models
         {
         }
 
-        public override void Refuel(double amount) => base.Refuel(amount * 0.95);
+        public override void Refuel(double amount)
+        {
+            if (amount <= 0)
+            {
+                base.Refuel(amount);
+            }
+            base.Refuel(amount * 0.95);
         
+        }
     }
 }

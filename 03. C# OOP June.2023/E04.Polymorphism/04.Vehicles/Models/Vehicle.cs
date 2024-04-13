@@ -13,14 +13,14 @@ namespace Vehicles.Models
             this.increasedConsumption = increasedConsumption;
         }
 
-        public double FuelQuantity { get; private set; }
+        public double FuelQuantity { get; set; }
 
         public double FuelConsumption { get; private set; }
         public int TankCapacity { get; set; }
 
-        public string Drive(double distance)
+        public string Drive(double distance, bool isIncreasedConsumption = true)
         {
-            double consumption = FuelConsumption + increasedConsumption;
+            double consumption = isIncreasedConsumption ? FuelConsumption + increasedConsumption : FuelConsumption;
 
             if (FuelQuantity < consumption * distance)
             {
@@ -38,8 +38,19 @@ namespace Vehicles.Models
             }
             else if (amount + FuelQuantity > TankCapacity)
             {
+                if (GetType().Name == "Truck")
+                {
+                    amount /= 0.95;
+                }
                 throw new ArgumentException($"Cannot fit {amount} fuel in the tank");
             }
+
+            FuelQuantity += amount;
+        }
+
+        public override string ToString()
+        {
+            return $"{GetType().Name}: {FuelQuantity:F2}";
         }
     }
 }

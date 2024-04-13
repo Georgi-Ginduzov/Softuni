@@ -11,7 +11,7 @@ namespace Vehicles.Models.Interfaces
         double FuelQuantity { get; }
         double FuelConsumption { get; }
 
-        string Drive(double distance);
+        string Drive(double distance, bool isIncreasedConsumption);
         void Refuel(double amount);
     }
 }

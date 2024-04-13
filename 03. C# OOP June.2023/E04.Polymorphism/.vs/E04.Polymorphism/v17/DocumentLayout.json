@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +23,28 @@
       "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\factories\\interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\factories\\interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|solutionrelative:04.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B93C3E-EEAF-4B21-B5FE-698A2B3851F2}|04.Vehicles\\Vehicles.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\e04.polymorphism\\04.vehicles\\io\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,36 +66,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Engine.cs",
+              "RelativeToolTip": "04.Vehicles\\Core\\Engine.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:57:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\Models\\Vehicle.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Vehicle.cs",
               "RelativeToolTip": "04.Vehicles\\Models\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wCYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T06:53:40.721Z"
+              "WhenOpened": "2024-04-12T06:53:40.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "04.Vehicles\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:57:14.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Truck.cs",
+              "RelativeToolTip": "04.Vehicles\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:37:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Bus.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Bus.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\Models\\Bus.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Bus.cs",
               "RelativeToolTip": "04.Vehicles\\Models\\Bus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T06:53:22.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\IO\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\ConsoleReader.cs",
+              "RelativeToolTip": "04.Vehicles\\IO\\ConsoleReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:59:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:11:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\StartUp.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\StartUp.cs",
+              "RelativeToolTip": "04.Vehicles\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:25:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Factories\\Interfaces\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Factories\\Interfaces\\IVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Factories\\Interfaces\\IVehicleFactory.cs",
+              "RelativeToolTip": "04.Vehicles\\Factories\\Interfaces\\IVehicleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:18:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Factories\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "04.Vehicles\\Factories\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Factories\\VehicleFactory.cs",
+              "RelativeToolTip": "04.Vehicles\\Factories\\VehicleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:19:06.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Car.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\Models\\Car.cs",
@@ -99,80 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Engine.cs",
-              "RelativeToolTip": "04.Vehicles\\Core\\Engine.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwDcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:57:55.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Truck.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Truck.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\Models\\Truck.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Truck.cs",
-              "RelativeToolTip": "04.Vehicles\\Models\\Truck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:37:13.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
-              "RelativeToolTip": "04.Vehicles\\Models\\Interfaces\\IVehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:11:48.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\StartUp.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\StartUp.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\StartUp.cs",
-              "RelativeToolTip": "04.Vehicles\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:25:01.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Interfaces\\IEngine.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\Core\\Interfaces\\IEngine.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\Core\\Interfaces\\IEngine.cs",
-              "RelativeToolTip": "04.Vehicles\\Core\\Interfaces\\IEngine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:57:14.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConsoleReader.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\ConsoleReader.cs",
-              "RelativeDocumentMoniker": "04.Vehicles\\IO\\ConsoleReader.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\ConsoleReader.cs",
-              "RelativeToolTip": "04.Vehicles\\IO\\ConsoleReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:59:36.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ConsoleWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\ConsoleWriter.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\IO\\ConsoleWriter.cs",
@@ -184,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IWriter.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\Interfaces\\IWriter.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\IO\\Interfaces\\IWriter.cs",
@@ -196,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IReader.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\E04.Polymorphism\\04.Vehicles\\IO\\Interfaces\\IReader.cs",
               "RelativeDocumentMoniker": "04.Vehicles\\IO\\Interfaces\\IReader.cs",
