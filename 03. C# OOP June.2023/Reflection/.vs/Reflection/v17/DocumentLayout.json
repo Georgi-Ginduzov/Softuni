@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\reflection\\stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|solutionrelative:stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\reflection\\stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|solutionrelative:stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|c:\\users\\asus\\source\\repos\\softuni\\03. c# oop june.2023\\reflection\\stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8559125-5337-4C65-A6E1-9D2E09824922}|Stealer\\Stealer.csproj|solutionrelative:stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "Stealer\\Spy.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\Spy.cs",
+              "RelativeToolTip": "Stealer\\Spy.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:46:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "Stealer\\Hacker.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\Hacker.cs",
+              "RelativeToolTip": "Stealer\\Hacker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:45:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "Stealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Reflection\\Stealer\\StartUp.cs",
+              "RelativeToolTip": "Stealer\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:44:36.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
