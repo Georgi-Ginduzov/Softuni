@@ -11,6 +11,11 @@ namespace BankLoan.Repositories
     public class BankRepository : IRepository<IBank>
     {
         private List<IBank> models;
+
+        public BankRepository()
+        {
+            models = new List<IBank>();
+        }
         public IReadOnlyCollection<IBank> Models => models;
 
         public void AddModel(IBank model)

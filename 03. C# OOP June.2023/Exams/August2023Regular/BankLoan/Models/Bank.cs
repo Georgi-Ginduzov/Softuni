@@ -66,7 +66,20 @@ namespace BankLoan.Models
         {
             StringBuilder output = new StringBuilder();
             output.AppendLine($"Name: {Name}, Type: {GetType().Name}".Trim());
-            output.AppendLine($"Clients: {String.Join(", ", Clients)}".Trim());
+            output.Append("Clients: ");
+            if (Clients.Count > 0)
+            {
+                for (int i = 0; i < Clients.Count - 1; i++)
+                {
+                    output.Append(clients[i].Name + ", ");
+                }
+                output.Append(clients[clients.Count - 1].Name);
+            }
+            else
+            {
+                output.Append("none".Trim());
+            }
+            output.AppendLine();
             output.AppendLine($"Loans: {Loans.Count}, Sum of Rates: {SumRates()}".Trim());
             return output.ToString();
         }

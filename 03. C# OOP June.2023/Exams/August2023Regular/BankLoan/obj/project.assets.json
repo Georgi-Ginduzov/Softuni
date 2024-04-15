@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\VendingRetail\\BankLoan\\BankLoan.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\BankLoan\\BankLoan.csproj",
       "projectName": "BankLoan",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\VendingRetail\\BankLoan\\BankLoan.csproj",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\BankLoan\\BankLoan.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\VendingRetail\\BankLoan\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\Softuni\\03. C# OOP June.2023\\Exams\\August2023Regular\\BankLoan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
