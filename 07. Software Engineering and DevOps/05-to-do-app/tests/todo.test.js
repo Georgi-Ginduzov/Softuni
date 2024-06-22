@@ -21,22 +21,24 @@ test('user can delete a task', async ({ page }) => {
 })
 
 test('user can complete a task', async ({ page }) => {
-
     await page.goto('http://localhost:5500/05-to-do-app/');
     await page.fill('#task-input', 'Test Task');
     await page.click('#add-task');
     await page.click('.task-complete');
     
-    expect(await task.getAttribute('class')).toContain('task completed');
+    const completedTask = await page.$('.task.completed');
+
+    expect(completedTask).not.toBeNull();
 })
 
 test('user can filter a task', async ({ page }) => {
     await page.goto('http://localhost:5500/05-to-do-app/');
     await page.fill('#task-input', 'Test Task');
     await page.click('#add-task');
+    
     await page.click('.task-complete');
+    
     await page.selectOption('#filter', 'Completed');
-
     const incompleteTask = await page.$('.task:not(.completed)');
     
     expect(incompleteTask).toBeNull();
