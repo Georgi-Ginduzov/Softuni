@@ -1,0 +1,2 @@
+1. Write a CI/CD workflow for the student registry app in https://github.com/Georgi-Ginduzov/Student-Registry-App and then deploy it. 
+2. Write a CI/CD workflow for the Library Catalog in                   and then deploy it. 
